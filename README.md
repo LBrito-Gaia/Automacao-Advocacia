@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido para resolver um gargalo operacional em um escritório de advocacia, automatizando a extração, o download e a organização de comprovantes de pagamento originados da plataforma Asaas- startup brasileira.
 
 ---
-📌 O Problema
+📌 O Problema:<br>
 O escritório recebia documentos Word contendo centenas de links de pagamento. O processo manual envolvia:
 
 * Abrir cada arquivo .docx.
@@ -19,7 +19,7 @@ O escritório recebia documentos Word contendo centenas de links de pagamento. O
 **Impacto:** Horas (ou dias) de trabalho repetitivo e alta suscetibilidade a erros humanos.
 
 ---
-🚀 A Solução
+🚀 A Solução:<br>
 Um bot em **Python** que realiza todo o processo de ponta a ponta com apenas um comando.
 
 **Funcionalidades:**
