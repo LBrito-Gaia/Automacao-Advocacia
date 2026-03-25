@@ -1,0 +1,20 @@
+# Ambientes Virtuais (Caso use venv)
+venv/
+.venv/
+env/
+
+# Pastas Temporárias do seu script
+Temp_Downloads/
+
+# Pastas de Saída (Geralmente não enviamos dados de clientes para o GitHub)
+Comprovantes_Clientes/
+Clientes/
+
+# Arquivos do Sistema e IDE
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Logs
+*.log
